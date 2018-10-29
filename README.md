@@ -1,1 +1,3 @@
-# FlavorCoin
+# FlavorXL
+
+TODO: Finish readme
